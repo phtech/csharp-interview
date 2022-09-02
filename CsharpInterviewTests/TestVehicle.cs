@@ -20,7 +20,7 @@ namespace CsharpInterviewTests
         public void TestTruck()
         {
             IVehicle testsubject = null;
-            // Create Motorcycle here
+            // Create Truck here
 
             TestAttributes(testsubject, "Orange", 95, 4);
         }
